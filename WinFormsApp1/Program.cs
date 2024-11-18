@@ -13,7 +13,8 @@ namespace WinFormsApp1
             ApplicationConfiguration.Initialize();
             //Application.Run(new Form1());
             //Application.Run(new Notepad());
-            Application.Run(new Product());
+            // Application.Run(new Product());
+            Application.Run(new SerializationDemo());
         }
     }
 }
