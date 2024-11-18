@@ -14,7 +14,9 @@ namespace WinFormsApp1
             //Application.Run(new Form1());
             //Application.Run(new Notepad());
             // Application.Run(new Product());
-            Application.Run(new SerializationDemo());
+            //Application.Run(new SerializationDemo());
+            Application.Run(new Employee_Form());
+
         }
     }
 }
